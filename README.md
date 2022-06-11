@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="1080px" height="250" align="center" alt="Developer">
+<img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="1080" height="200" align="center" alt="Developer">
                                     
 <h1 align="center">Olá, Eu sou o Orlando 👋</h1>
 
