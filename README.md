@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif" width="1080" height="200" align="center" alt="Developer">
+<img src="https://ariagroup.io/wp-content/uploads/2020/06/automation-1-2.png" width="300" height="300" align="right" alt="Developer">
                                     
 <h1 align="center">Olá, Eu sou o Orlando 👋</h1>
 
@@ -17,7 +17,7 @@
   <img align="center" alt="Orlando-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Orlando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Orlando-Arduino" height="30" width="40" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667">
-  <img align="center" alt="Orlando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img name="git" align="center" alt="Orlando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Orlando-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
