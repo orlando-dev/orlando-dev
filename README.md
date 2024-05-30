@@ -18,7 +18,7 @@
   <img align="center" alt="Orlando-RestAssured" height="30" width="40" src="https://www.entrofi.net/wp-content/uploads/2020/01/rest-assured-logo.png" title="Rest-Assured">
   <img align="center" alt="Orlando-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins CI/CD">
   <img align="center" alt="Orlando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Orlando-Arduino" height="30" width="40" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" title="Arduino">
+  <img align="center" alt="Orlando-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" title="Arduino">
   <img name="git" align="center" alt="Orlando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
   <img align="center" alt="Orlando-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
   <img align="center" alt="Orlando-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Servidores Linux"/>
