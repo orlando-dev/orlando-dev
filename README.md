@@ -5,7 +5,6 @@
 - 🗨️ Olá! Sou formado em Sistemas de Informação e apaixonado por astronomia e IoT. Atualmente, trabalho como Analista de Testes com foco em automação, acumulando experiência na área desde 2019. Busco constantemente aprimorar meu conhecimento no mundo do QA e tenho investido em cursos para me manter atualizado.
 
 - 🔭 Hoje trabalho como Analista de Testes no <b>Beach Park</b>🌊🏖️
-- 🌱 Estou aprendendo BDD com Cucumber, Robot, JMeter, Docker, Cypress.
 
 ##
 </p>
